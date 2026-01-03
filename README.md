@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/yourusername/yourbanner.png" alt="Banner" width="100%" />
+</p>
+
 # 💫 About Me
-Hi, I’m **Muhammad Atif**, a passionate Frontend & Full Stack Developer. I specialize in **React.js, Node.js, and modern web technologies** to create responsive, user-friendly, and high-performance web applications. I have experience working with multiple companies and am continuously learning to grow as a full stack developer.  
+Hi, I’m **Muhammad Atif**, a passionate **Frontend & Full Stack Developer**.  
+I specialize in **React.js, Node.js, and modern web technologies** to build **responsive, user-friendly, and high-performance web applications**.  
+Currently, I am expanding my expertise into **AI integration and Full Stack development** to create smarter, next-gen digital solutions.
 
 ---
 
@@ -26,6 +32,17 @@ Hi, I’m **Muhammad Atif**, a passionate Frontend & Full Stack Developer. I spe
 
 ---
 
+## 🚀 Projects
+Here are some of my notable projects:  
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| Portfolio Website | My personal portfolio to showcase my work | React, CSS, Figma | [View](https://yourportfolio.com) |
+| E-Commerce App | Full-featured shopping platform | React, Node.js, MongoDB | [View](https://github.com/MuhammadAtif/ecommerce) |
+| AI Chat App | Chatbot using OpenAI API | React, Node.js | [View](https://github.com/MuhammadAtif/AI-ChatApp) |
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAtif&theme=dark&show_icons=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAtif&theme=dark&layout=compact)  
@@ -38,10 +55,11 @@ Hi, I’m **Muhammad Atif**, a passionate Frontend & Full Stack Developer. I spe
 
 ---
 
-## 👀 Profile Visits
-[![Visitor Count](https://visitcount.itsvg.in/api?id=MuhammadAtif&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💡 Fun Fact / Quote
+> “Strive not to be a success, but rather to be of value.” – Albert Einstein  
+I love learning new technologies, experimenting with AI, and building web solutions that make a real impact.
 
 ---
 
-## 💡 Fun Fact
-🚀 Currently leveling up as a **Full Stack Developer** while exploring **AI & modern web solutions**.
+## 👀 Profile Visits
+[![Visitor Count](https://visitcount.itsvg.in/api?id=MuhammadAtif&icon=0&color=0)](https://visitcount.itsvg.in)
